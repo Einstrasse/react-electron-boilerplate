@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React-Electron boilerplate code
+[Blog Link](https://medium.com/@devesu/how-to-build-a-react-based-electron-app-d0f27413f17f)   
+Just following steps from the above link.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
